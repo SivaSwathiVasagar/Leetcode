@@ -5,3 +5,5 @@ class Solution:
             return True
         else:          
             return False
+        # Another way
+        # return Counter(s) == Counter(t)    
